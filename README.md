@@ -1,5 +1,5 @@
 ![Screenshot 2025-04-30 131607](https://github.com/user-attachments/assets/64c4f874-4d70-43eb-8685-bb785f81b225)
-*Problem Statement:*
+### *Problem Statement:*
 
 In cricket, accurately tracking and predicting the trajectory of the ball is crucial for performance analysis, umpiring, and training. Traditional tracking systems like Hawk-Eye are expensive and require complex setups. The challenge was to develop a cost-effective computer vision–based system capable of detecting, tracking, and predicting the ball’s trajectory from standard video footage.
 
@@ -32,4 +32,5 @@ The project implements an *AI-powered computer vision pipeline* to detect and fo
 * *Libraries:* OpenCV, NumPy, Pandas, scikit-learn, Matplotlib
 * *Environment:* Jupyter Notebook
 * *Supporting Files:* requirements.txt, run.bat for easy execution
+
 
